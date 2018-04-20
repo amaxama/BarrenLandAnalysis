@@ -30,3 +30,7 @@ dist/
 nbdist/
 .nb-gradle/
 nbactions.xml
+
+
+# Mac
+*.DS_Store
