@@ -34,3 +34,4 @@ nbactions.xml
 
 # Mac
 .DS_Store
+/Java Files/nbproject/
