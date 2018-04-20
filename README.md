@@ -12,9 +12,11 @@ You are given a set of rectangles that contain the barren land. These rectangles
 Output all the fertile land area in square meters, sorted from smallest area to greatest, separated by a space. 
 
 ### Sample Data:
-Input: {“0 292 399 307”}    Output: 116800  116800
+Input: {“0 292 399 307”}
+Output: 116800  116800
 
-Input: “48 192 351 207”, “48 392 351 407”, “120 52 135 547”, “260 52 275 547”}      Output: 22816 192608
+Input: “48 192 351 207”, “48 392 351 407”, “120 52 135 547”, “260 52 275 547”} 
+Output: 22816 192608
  	
 
 ## Deployment
