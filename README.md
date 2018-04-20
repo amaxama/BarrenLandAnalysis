@@ -24,7 +24,7 @@ Output: 22816 192608
 
 ## Deployment
 
-Project can be run in any Java compatible IDE. Download zip or clone onto local machine, open in IDE and run. 
+Project can be run in any Java 1.8 compatible IDE.  Download zip file or clone onto local machine, open in IDE and run. 
 
 ## Getting Started
 
