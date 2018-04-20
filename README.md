@@ -13,9 +13,12 @@ Output all the fertile land area in square meters, sorted from smallest area to 
 
 ### Sample Data:
 Input: {“0 292 399 307”}
+
 Output: 116800  116800
 
+
 Input: “48 192 351 207”, “48 392 351 407”, “120 52 135 547”, “260 52 275 547”} 
+
 Output: 22816 192608
  	
 
@@ -33,6 +36,8 @@ Output will be:
 ```
 116800  116800 
 ```
+
+Edit the STDIN variable to include additional rectangles of barren land.
 
 
 ## Testing
